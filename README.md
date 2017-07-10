@@ -1,2 +1,4 @@
-# master
-Master template for my sites
+Master
+========
+
+template for my websites
